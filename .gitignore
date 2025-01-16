@@ -1,0 +1,63 @@
+# Compiled object files
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled Static libraries
+*.a
+*.lib
+
+# Executable files
+*.exe
+*.out
+*.app
+
+# Debug files
+*.dSYM/
+*.stackdump
+
+# Generated files
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Directories
+Debug/
+Release/
+build/
+
+# IDEs
+# Eclipse
+.project
+.cproject
+.settings/
+
+# Code::Blocks
+*.layout
+*.depend
+
+# CLion
+.idea/
+cmake-build-debug/
+cmake-build-release/
+
+# Visual Studio Code
+.vscode/
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+
+# Xcode
+*.xcworkspace
+*.xcuserdata/
+*.xcuserstate

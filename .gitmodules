@@ -1,0 +1,31 @@
+# Milestone 0
+[submodule "src/libft"]
+	path = src/libft
+	url = https://github.com/marcnava-42cursus/libft.git
+
+# Milestone 1
+[submodule "src/ft_printf"]
+	path = src/ft_printf
+	url = https://github.com/marcnava-42cursus/ft_printf.git
+[submodule "src/get_next_line"]
+	path = src/get_next_line
+	url = https://github.com/marcnava-42cursus/get_next_line.git
+
+# Milestone 2
+[submodule "src/push_swap"]
+	path = src/push_swap
+	url = https://github.com/marcnava-42cursus/push_swap.git
+[submodule "src/pipex"]
+	path = src/pipex
+	url = https://github.com/marcnava-42cursus/pipex.git
+[submodule "src/so_long"]
+	path = src/so_long
+	url = https://github.com/marcnava-42cursus/so_long.git
+
+# Milestone 3
+
+# Milestone 4
+
+# Milestone 5
+
+# Milestone 6
