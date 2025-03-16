@@ -29,3 +29,6 @@
 # Milestone 5
 
 # Milestone 6
+[submodule "src/minitalk"]
+	path = src/minitalk
+	url = git@github.com:marcnava-42cursus/minitalk.git
