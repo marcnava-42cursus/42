@@ -18,6 +18,9 @@
 [submodule "src/pipex"]
 	path = src/pipex
 	url = https://github.com/marcnava-42cursus/pipex.git
+[submodule "src/minitalk"]
+	path = src/minitalk
+	url = git@github.com:marcnava-42cursus/minitalk.git
 [submodule "src/so_long"]
 	path = src/so_long
 	url = https://github.com/marcnava-42cursus/so_long.git
@@ -29,6 +32,3 @@
 # Milestone 5
 
 # Milestone 6
-[submodule "src/minitalk"]
-	path = src/minitalk
-	url = git@github.com:marcnava-42cursus/minitalk.git
