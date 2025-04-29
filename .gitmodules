@@ -32,3 +32,6 @@
 # Milestone 5
 
 # Milestone 6
+[submodule "src/philosophers"]
+	path = src/philosophers
+	url = git@github.com:marcnava-42cursus/philisophers.git
