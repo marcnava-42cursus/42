@@ -35,3 +35,6 @@
 [submodule "src/philosophers"]
 	path = src/philosophers
 	url = git@github.com:marcnava-42cursus/philisophers.git
+[submodule "src/Minishell"]
+	path = src/Minishell
+	url = git@github.com:marcnava-42cursus/Minishell.git
