@@ -38,3 +38,6 @@
 [submodule "src/Minishell"]
 	path = src/Minishell
 	url = git@github.com:marcnava-42cursus/Minishell.git
+[submodule "src/fract-ol"]
+	path = src/fract-ol
+	url = git@github.com:marcnava-42cursus/fract-ol.git
