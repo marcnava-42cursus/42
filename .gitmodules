@@ -41,3 +41,6 @@
 [submodule "src/fract-ol"]
 	path = src/fract-ol
 	url = git@github.com:marcnava-42cursus/fract-ol.git
+[submodule "src/cpp"]
+	path = src/cpp
+	url = git@github.com:marcnava-42cursus/cpp00-09.git
