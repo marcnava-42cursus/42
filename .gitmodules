@@ -44,3 +44,6 @@
 # Milestone 5
 
 # Milestone 6
+[submodule "src/cub3d"]
+	path = src/cub3d
+	url = git@github-marcnava:marcnava-42cursus/cub3d.git
