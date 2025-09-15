@@ -24,20 +24,23 @@
 [submodule "src/so_long"]
 	path = src/so_long
 	url = https://github.com/marcnava-42cursus/so_long.git
+[submodule "src/fract-ol"]
+	path = src/fract-ol
+	url = git@github.com:marcnava-42cursus/fract-ol.git
 
 # Milestone 3
-
-# Milestone 4
-
-# Milestone 5
-
-# Milestone 6
 [submodule "src/philosophers"]
 	path = src/philosophers
 	url = git@github.com:marcnava-42cursus/philisophers.git
 [submodule "src/Minishell"]
 	path = src/Minishell
 	url = git@github.com:marcnava-42cursus/Minishell.git
-[submodule "src/fract-ol"]
-	path = src/fract-ol
-	url = git@github.com:marcnava-42cursus/fract-ol.git
+
+# Milestone 4
+[submodule "src/cpp"]
+	path = src/cpp
+	url = git@github.com:marcnava-42cursus/cpp00-09.git
+
+# Milestone 5
+
+# Milestone 6
